@@ -1,5 +1,5 @@
 # phpbro
-Small script to run html code from Mamp
+Small script to run html code from Mamp                       
  Usage:                
  phpbro - to open htdocs directory in MAMPs installation directory
  phpbro [file] - to run php script in browser            
